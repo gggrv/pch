@@ -1,0 +1,37 @@
+
+-- downloading a file
+
+downloading large files:
+http://masnun.com/2016/09/18/python-using-the-requests-module-to-download-large-files-efficiently.html
+
+difference between with open() as... and handle=open():
+https://stackoverflow.com/questions/1369526/what-is-the-python-keyword-with-used-for
+https://www.effbot.org/zone/python-with-statement.htm
+↑with... is preferred
+
+http protocol keep-alive...???:
+https://developpaper.com/detailed-explanation-of-keep-alive-mode-in-http-request/
+↑download manager should be able to work with http, https, ftp, ... ??? naturally, understanding tcp/ip stack is required
+→that's a BIG topic
+
+f.flush()?????:
+https://python-reference.readthedocs.io/en/latest/docs/file/flush.html
+↑using it is preferred
+
+
+-- pretty stats
+
+estimated time, % done
+https://stackoverflow.com/questions/23645212/requests-response-iter-content-gets-incomplete-file-1024mb-instead-of-1-5gb
+
+
+-- pyqt5
+
+tab widget
+https://pythonspot.com/pyqt5-tabs/
+
+mainwindow statusbar
+https://www.tutorialspoint.com/pyqt5/pyqt5_qstatusbar_widget.htm
+
+threading
+https://nikolak.com/pyqt-threading-tutorial/

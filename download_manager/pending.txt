@@ -1,0 +1,14 @@
+
+in DOWNLOADING mode:
+    autocheck 'next' once in a while
+    
+in downloader:
+    exception for unreachable files / lack of internet connection
+    eta, speed, %, gui progressbar
+    
+in general:
+    saner way to do this
+    login, password, sessions
+    number of retries
+    chunk size
+    ↑gui settings
